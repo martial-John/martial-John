@@ -1,8 +1,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/martial-John"/>
 </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v1/generate_badge?boj=wjsxotjq98)](https://solved.ac/wjsxotjq98)
-<h3>🛠 Tech Stack</h3>
+[![Solved.ac Profile](https://mazandi.herokuapp.com/api/v2/generate_badge?boj=wjsxotjq98)](https://solved.ac/wjsxotjq98)
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
